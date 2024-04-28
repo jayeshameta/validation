@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.validation.api.validation.intercept.RequestInterceptorTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.530 s <<< FAILURE! -- in com.validation.api.validation.intercept.RequestInterceptorTests
+com.validation.api.validation.intercept.RequestInterceptorTests.testpreHandle -- Time elapsed: 1.402 s <<< FAILURE!
+java.lang.AssertionError
+	at com.validation.api.validation.intercept.RequestInterceptorTests.testpreHandle(RequestInterceptorTests.java:34)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+

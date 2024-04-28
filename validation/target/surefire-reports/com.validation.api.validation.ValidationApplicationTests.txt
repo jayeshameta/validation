@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.validation.api.validation.ValidationApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.102 s -- in com.validation.api.validation.ValidationApplicationTests
